@@ -21,7 +21,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ycs-202007072&show_icons=true&theme=dracula">
 </div>
 
-<div align=center>	
+<div align="center">	
+  
 ![Jihye's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=ycs-202007072)
 </div>
 <!--

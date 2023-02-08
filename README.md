@@ -1,7 +1,16 @@
 <div align="center";>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jihye&fontSize=90" />
 </div>
-### Hi there 👋
+
+<h5>
+안녕하세요👋  <br>
+Jihye' GitHub <br>
+ </h5> 
+ 
+<h4>
+현재 대학교 졸업을 앞둔 컴퓨터소프트웨어공학과 23살 고지혜라고 합니다! <br>
+부족한 부분이 많아 현재도 많은걸 배우는 중입니다😁<br>
+</h4>
 
 
 <div align="center";>

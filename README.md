@@ -13,7 +13,7 @@
 부족한 부분이 많아 현재도 많은걸 배우는 중입니다😁<br>
 </h5>
 </div>
-
+<br>
 <div align="center";>
 <h1> 📚기능 구현 등의 사용 경험이 있는 Tech Stack📚<h1>
 
@@ -34,17 +34,18 @@
   
 <div align="center";>
 <img src="https://github-readme-stats.vercel.app/api?username=ycs-202007072&show_icons=true&theme=dracula">
-</div>
-  
-<br><br>
-<div align="center">	
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycs-202007072&layout=compact">
-  
-![Jihye's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=ycs-202007072)
+
 </div>
 
   
-#### [졸업작품 - T.M.I](https://github.com/ycs-202007028/test-mania-island)
-#### [동아리 - Ref](https://github.com/ycs-201607083/web-reference)   
-#### [개인 작품 - whatflix](https://github.com/ycs-202007072/whatflix)   
-#### [포트폴리오 관련](https://github.com/ycs-202007072/webking)
+## [졸업작품 - T.M.I](https://github.com/ycs-202007028/test-mania-island)
+![chrome_screenshot_localhost](https://user-images.githubusercontent.com/80028726/217519558-b1615fe8-5073-4413-bd90-4a361a3d1ccc.png)  
+  
+## [동아리 - Ref](https://github.com/ycs-201607083/web-reference) 
+<img width="2238" alt="스크린샷 2023-02-08 오후 7 05 59" src="https://user-images.githubusercontent.com/80028726/217518941-c15a2c4f-5e9c-4840-9ef1-b13736f7c332.png">  
+  
+## [개인 작품 - whatflix](https://github.com/ycs-202007072/whatflix) 
+![chrome_screenshot_localhost (1)](https://user-images.githubusercontent.com/80028726/217519853-b2da62e8-466c-4a7b-a600-cbde12d5bc5f.png)
+  
+## [포트폴리오 관련](https://github.com/ycs-202007072/webking)
+![image](https://user-images.githubusercontent.com/80028726/217519631-e360cb32-96a6-4620-8197-2acefada4d33.png)

@@ -19,6 +19,12 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycs-202007072&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=ycs-202007072&show_icons=true&theme=dracula">
+
+
+<div align=center>
+	
+![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=ycs-202007072)
+</div>
 <!--
 **ycs-202007072/ycs-202007072** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,7 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Jihye&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jihye&fontSize=90" />
 
 ### Hi there 👋
 
+
+<img src="https://img.shields.io/badge/html5-#E34F26?style=flat&logo=html5&logoColor=white"/>
 <!--
 **ycs-202007072/ycs-202007072** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

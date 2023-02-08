@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Jihye&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Jihye&fontSize=90" />
 
 ### Hi there 👋
 

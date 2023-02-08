@@ -43,3 +43,8 @@
 ![Jihye's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=ycs-202007072)
 </div>
 
+  
+#### [졸업작품 - T.M.I](https://github.com/ycs-202007028/test-mania-island)
+#### [동아리 - Ref](https://github.com/ycs-201607083/web-reference)   
+#### [개인 작품 - whatflix](https://github.com/ycs-202007072/whatflix)   
+#### [포트폴리오 관련](https://github.com/ycs-202007072/webking)

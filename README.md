@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual Studio-#C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio-C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
 </div>
   
   <br>
